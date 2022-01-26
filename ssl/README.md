@@ -1,5 +1,5 @@
 
-🏷️ Semi-Supervised Leearning
+🏷️ Semi-Supervised Learning
 -------------
 Enlisted here how I explore SSL.
 

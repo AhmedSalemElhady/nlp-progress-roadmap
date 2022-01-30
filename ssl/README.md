@@ -8,6 +8,8 @@ Enlisted here how I explore SSL.
 Literature review to get onboarded on SSL, and tracking its progress.
 
  *Disclaimer: items in the table are ordered by how I perceive their importance and dependence on one another, for better understanding.*
+ 
+ [This talk](https://www.youtube.com/watch?v=gsJWOrDn1-M) has an amazing synopsis for SSL, yet alone not sufficient for in-depth details.
 
 | <div>  Paper </div> 	| link 	| Comments 	|
 |-------	|------	|---------	|
